@@ -3,9 +3,7 @@
 
 
 
-- 🔭 I’m currently working on **Lumos.io**
-
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **Vue**
 
 - 👯 I’m looking to collaborate on **DSA, Python,**
 
