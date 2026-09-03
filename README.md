@@ -1,27 +1,87 @@
-<h1 align="center">Hi 👋, I'm Bechuana</h1>
-<h3 align="center">Building Dreams with Code | 🌐 Full-Stack Developer | Code & Coffee ☕</h3>
+<br>
+<br>
 
+# Bechuana.
 
+### Systems Engineer · Full-Stack Architect · DevOps
 
-- 🌱 I’m currently learning **Vue**
+<br>
 
-- 👯 I’m looking to collaborate on **DSA, Python,**
+> *"I don't write code to impress. I write code to survive production."*
 
-- 💬 Ask me about **DSA**
+<br>
+<br>
 
-- 📫 How to reach me **mykbechuana@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mykbechuana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mykbechuana" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bechuana1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bechuana1" height="30" width="40" /></a>
-</p>
+<br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+### 01 — The Focus
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bechuana1&show_icons=true&locale=en&layout=compact" alt="bechuana1" /></p>
+I specialize in the deep, unglamorous work of **system stabilization and architectural modernization**. 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bechuana1&show_icons=true&locale=en" alt="bechuana1" /></p>
+Currently orchestrating the migration of a massive, multi-vendor e-commerce ecosystem from **Laravel 8 to Laravel 12 (PHP 8.5)** — preserving 1,022 routes, 15+ payment gateways, and zero breaking changes to public contracts.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bechuana1&" alt="bechuana1" /></p>
+<br>
+
+### 02 — The Arsenal
+
+| Domain | Technologies & Tools |
+| :--- | :--- |
+| **Backend & Systems** | `Laravel 12` · `PHP 8.5` · `Python` · `Linux` · `C++` |
+| **DevOps & Infra** | `CI/CD` · `Server Mgmt` · `SAP Integration` · `Git` |
+| **Data & Storage** | `PostgreSQL` · `MySQL` · `Firebase` · `Schema Design` |
+| **Frontend & UX** | `Vue 2.7` · `Vuex` · `Vite` · `Tailwind` · `Minimalist UI` |
+
+<br>
+
+### 03 — The Current Build
+
+**Project:** Enterprise Multi-Vendor E-Commerce Platform  
+**Scale:** 1,565 source files · 274 directories · 3 user portals  
+
+**The Mission:**
+- [x] **Framework Leap:** Laravel 8 → 12 (Strict backward compatibility)
+- [x] **Type Safety:** Enforcing `declare(strict_types=1)` across the codebase
+- [x] **Auth Modernization:** Sentinel & JWT → Native Laravel Auth & Sanctum
+- [x] **Frontend Overhaul:** Laravel Mix → Vite · CommonJS → ES Modules
+- [ ] **Enterprise Sync:** SAP integration with graceful fallback mechanisms
+- [ ] **Gateway Refactor:** Re-implementation of 15+ payment providers
+
+<br>
+
+### 04 — Engineering Principles
+
+1. **Stability over novelty.** A boring, predictable system is a successful system.
+2. **Contracts are sacred.** Never break a public interface. Use adapters.
+3. **Separation of concerns.** Controllers are for routing. Services are for logic. Repositories are for data.
+4. **Payload safety.** Readonly DTOs over raw arrays. Always.
+
+<br>
+
+### 05 — Connect
+
+If you're building something complex and need someone who cares about the foundation as much as the facade.
+
+→ [mykbechuana@gmail.com](mailto:mykbechuana@gmail.com)  
+→ [linkedin.com/in/bechuana1](https://linkedin.com/in/bechuana1)  
+→ [@mykbechuana](https://twitter.com/mykbechuana)
+
+<br>
+<br>
+
+---
+
+<br>
+
+<br>
+
+<div align="center">
+ 
+  <br><br><br>
+  
+  <sub style="font-family: monospace; color: #999999; font-size: 11px; letter-spacing: 0.1em;">
+    [ SYSTEM: OPERATIONAL ] &nbsp;·&nbsp; [ UPTIME: CONTINUOUS ]
+  </sub>
+  <br><br><br>
+</div>
