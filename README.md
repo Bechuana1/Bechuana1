@@ -1,87 +1,44 @@
-<br>
-<br>
+# Bechuana
 
-# Bechuana.
+I build and maintain the systems that run businesses. 
 
-### Systems Engineer · Full-Stack Architect · DevOps
+Most of my day-to-day involves untangling complex workflows, migrating legacy systems without breaking production, and making sure the API doesn't fall over when traffic spikes. I specialize in **Odoo ERP implementations** and **Laravel backend architecture**. 
 
-<br>
+I don't chase the newest frameworks. I use boring, reliable technology to solve actual business problems. Good code is quiet—it handles edge cases gracefully, doesn't wake me up at 3 AM, and lets the business focus on making money.
 
-> *"I don't write code to impress. I write code to survive production."*
+### What I'm working on right now
 
-<br>
-<br>
+- **The Big Migration:** Moving a massive, multi-vendor e-commerce platform from Laravel 8 to Laravel 12 (PHP 8.5). 1,500+ files, 15 payment gateways, and a strict mandate of zero breaking changes to public API contracts. 
+- **Odoo at Scale:** Partner-level ERP deployments (v16 through v19). Currently building custom Python modules for logistics and automating 3-way matching for procure-to-pay workflows.
+- **API Hygiene:** Refactoring legacy payment integrations (M-Pesa, Stripe, direct bank APIs) into a unified adapter pattern so the core application doesn't care which gateway is actually processing the money.
 
----
+### The Stack
 
-<br>
+I use the right tool for the job, but these are my daily drivers:
 
-### 01 — The Focus
+* **ERP & Business Logic:** Odoo (Python, XML, Studio), SAP B1 integrations.
+* **Backend & APIs:** PHP 8.x (Laravel), RESTful API design, GraphQL, Webhooks.
+* **Data:** PostgreSQL, MySQL, Redis. I care deeply about schema design and indexing.
+* **Frontend:** Vue.js, Alpine.js, Tailwind. I prefer keeping the frontend as thin as possible.
+* **Infrastructure:** Linux (Ubuntu), Nginx, Docker, GitHub Actions (CI/CD), Cron.
 
-I specialize in the deep, unglamorous work of **system stabilization and architectural modernization**. 
+### My Engineering Principles
 
-Currently orchestrating the migration of a massive, multi-vendor e-commerce ecosystem from **Laravel 8 to Laravel 12 (PHP 8.5)** — preserving 1,022 routes, 15+ payment gateways, and zero breaking changes to public contracts.
+1. **Code is a liability.** Every line written is a line that must be read, tested, and maintained. The best code is the code you didn't have to write.
+2. **Readability over cleverness.** If a junior developer can't understand your function at 4 PM on a Friday, it's not clever; it's a bug waiting to happen.
+3. **The database is the source of truth.** ORMs are great, but they don't excuse a bad schema. Understand your indexes and your locks.
+4. **Talk to the users.** An elegant technical solution to the wrong business problem is still a failure. 
+5. **Contracts are sacred.** Never break a public interface. Use adapters, version your APIs, and deprecate gracefully.
 
-<br>
+### Notable Work
 
-### 02 — The Arsenal
+* **[Odoo Logistics Automation]** - Custom Odoo module handling multi-warehouse routing, stock replenishment triggers, and landed cost calculations.
+* **[Laravel M-Pesa Package]** - A clean, heavily tested wrapper for the Safaricom Daraja API. Handles STK pushes, C2B, and B2C with proper queueing and retry mechanisms.
+* **[Agri-Supply Chain Platform]** - Built a low-bandwidth Laravel/Vue application connecting smallholder farmers to buyers, featuring SMS fallbacks for offline users.
 
-| Domain | Technologies & Tools |
-| :--- | :--- |
-| **Backend & Systems** | `Laravel 12` · `PHP 8.5` · `Python` · `Linux` · `C++` |
-| **DevOps & Infra** | `CI/CD` · `Server Mgmt` · `SAP Integration` · `Git` |
-| **Data & Storage** | `PostgreSQL` · `MySQL` · `Firebase` · `Schema Design` |
-| **Frontend & UX** | `Vue 2.7` · `Vuex` · `Vite` · `Tailwind` · `Minimalist UI` |
+### Let's talk
 
-<br>
+If you're dealing with a messy legacy migration, need an ERP that actually fits your operations, or just want to argue about database normalization, I'm always open to a chat.
 
-### 03 — The Current Build
-
-**Project:** Enterprise Multi-Vendor E-Commerce Platform  
-**Scale:** 1,565 source files · 274 directories · 3 user portals  
-
-**The Mission:**
-- [x] **Framework Leap:** Laravel 8 → 12 (Strict backward compatibility)
-- [x] **Type Safety:** Enforcing `declare(strict_types=1)` across the codebase
-- [x] **Auth Modernization:** Sentinel & JWT → Native Laravel Auth & Sanctum
-- [x] **Frontend Overhaul:** Laravel Mix → Vite · CommonJS → ES Modules
-- [ ] **Enterprise Sync:** SAP integration with graceful fallback mechanisms
-- [ ] **Gateway Refactor:** Re-implementation of 15+ payment providers
-
-<br>
-
-### 04 — Engineering Principles
-
-1. **Stability over novelty.** A boring, predictable system is a successful system.
-2. **Contracts are sacred.** Never break a public interface. Use adapters.
-3. **Separation of concerns.** Controllers are for routing. Services are for logic. Repositories are for data.
-4. **Payload safety.** Readonly DTOs over raw arrays. Always.
-
-<br>
-
-### 05 — Connect
-
-If you're building something complex and need someone who cares about the foundation as much as the facade.
-
-→ [mykbechuana@gmail.com](mailto:mykbechuana@gmail.com)  
-→ [linkedin.com/in/bechuana1](https://linkedin.com/in/bechuana1)  
-→ [@mykbechuana](https://twitter.com/mykbechuana)
-
-<br>
-<br>
-
----
-
-<br>
-
-<br>
-
-<div align="center">
- 
-  <br><br><br>
-  
-  <sub style="font-family: monospace; color: #999999; font-size: 11px; letter-spacing: 0.1em;">
-    [ SYSTEM: OPERATIONAL ] &nbsp;·&nbsp; [ UPTIME: CONTINUOUS ]
-  </sub>
-  <br><br><br>
-</div>
+📫 **Email:** [mykbechuana@gmail.com](mailto:mykbechuana@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/bechuana1](https://linkedin.com/in/bechuana1)  
